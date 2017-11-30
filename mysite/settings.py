@@ -23,7 +23,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = 'cs-cxpvz7jca*n^r4^#3#7e9$!ebliv@j+$!d(v@(#jfw5e+sr'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+#DEBUG = True
 
 ALLOWED_HOSTS = ['127.0.0.1', 'Dungo.pythonanywhere.com']
 
